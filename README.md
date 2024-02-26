@@ -98,8 +98,7 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
-
+<hr>
 
 
 ```
